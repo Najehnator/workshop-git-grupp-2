@@ -1,6 +1,2 @@
-def add(a, b):
-  return a + b
-
-
-def(a, b): 
+def mul(a, b): 
     return a * b
