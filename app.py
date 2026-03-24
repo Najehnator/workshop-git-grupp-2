@@ -3,3 +3,4 @@ def run():
    choice = input("Your choice: ")
    if choice == "1": print("TODO Add")
    a = float(input("a: "))
+   b = float(input("b: "))
