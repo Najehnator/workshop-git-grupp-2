@@ -1,3 +1,3 @@
 def run():
-   print("1) Add\n2) Subtract\n0) Exit")
+   print("1) Add\n2) Subtract\n3) Mulitply\n0 Exit")
    choice = input("Your choice: ")
